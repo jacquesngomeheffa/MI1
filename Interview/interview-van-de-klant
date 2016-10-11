@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+    
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>GETTING STARTED WITH BRACKETS</title>
+        <meta name="description" content="An interactive getting started guide for Brackets.">
+        <link rel="stylesheet" href="main.css">
+    </head>
+    <body>
+        
+        <h1>Interview van de klant</h1>
+        <h2>De behoefte van mijn klant over zijn website</h2>
+        
+        <!--
+            MADE WITH <3 AND JAVASCRIPT
+        -->
+        
+        <p>
+            Bij dit geval, de klant wil eerst informatie geven over zijn bedrijf, er moet overzichtelijk staan in de voorpagina van zijn website. Het is actief mee bezig aan het aanmaken van zijn logo, maar hij gaf me een overzicht van zijn logo zodat ik het letterlijk namaak door het middel van de software Photoshop. De klant heeft zijn eigen prioriteit zoals de kleur die aangepast moet worden in zijn website (blauw). De voorpagina moet in verschillende onderdelen gedeeld worden ( de header, een zwevende leftcol en rightcol, tekstvoet). </p>
+        <h3> Wat moet er in de Header komen staan</h3>
+        
+<p>In de Header moet er links de naam van het bedrijf geschreven staan en rechts andere menu tabs. </p>
+        <h3> Wat moet er In de zwevende leftcol komen staan</h3>
+ <p>In de zwevende leftcol moet er de namen, de foto’s en de functies het personeelslid van het bedrijf komen staan en erop nog andere menu tabs. </p>
+       <h3> Wat moet er in de rightcol komen staan</h3>
+<p>En in de rightcol moet er ook bovenaan de foto met erop de logo van het bedrijf. Onderaan de foto, een tekstje waar men een uitleg geven over het project van het bedrijf. Onderaan dat tekstje foto’s van producten die te verkopen zijn met erbij een beschrijving.</p>
+        <h3> Wat moet er in de tekstvoet komen staan</h3>
+<p>De tekstvoet in dit geval is interessant omdat we belangrijke informatie zullen bijvoegen zodat de bezoeker die informatie kan raadplegen, indien vragen mag hij ons gerust contacteren.</p>
+        <h3>Hoe kunnen we erin geraken </h3>
+<p>Mijn klant wil vooral dat zijn website kan geraadpleegd zijn door ongeachte browsers.
+Wat mijn klant ook wil meedelen is de mogelijkheid tot het aanmelden waarvoor we een stukje PHP-code moeten gebruik van maken.
+De klant heeft zijn onderneming gesticht in Kameroen vooral in de stad Douala waarbij hij de motorfietsstukken verkoopt. Het is meest gericht voor mensen die met een motorfiets rijden. </p>
+
+        </p>
+        
+        
+        
+    </body>
+</html>
+<!--
+
+    [[[[[[[[[[[[[[[      ]]]]]]]]]]]]]]]
+    [::::::::::::::      ::::::::::::::]
+    [::::::::::::::      ::::::::::::::]
+    [::::::[[[[[[[:      :]]]]]]]::::::]
+    [:::::[                      ]:::::]
+    [:::::[                      ]:::::]
+    [:::::[                      ]:::::]
+    [:::::[                      ]:::::]
+    [:::::[     CODE THE WEB     ]:::::]
+    [:::::[  http://brackets.io  ]:::::]
+    [:::::[                      ]:::::]
+    [:::::[                      ]:::::]
+    [:::::[                      ]:::::]
+    [:::::[                      ]:::::]
+    [::::::[[[[[[[:      :]]]]]]]::::::]
+    [::::::::::::::      ::::::::::::::]
+    [::::::::::::::      ::::::::::::::]
+    [[[[[[[[[[[[[[[      ]]]]]]]]]]]]]]]
+
+-->
