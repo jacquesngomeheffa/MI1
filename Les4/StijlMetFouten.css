@@ -1,0 +1,34 @@
+﻿/* proefstylesheet voor validatiedoeleinden BEVAT FOUTEN!*/
+body{
+	font-family	:Georgia, Palatino, serif;
+	color		: maroon;
+	background 	: #cfcf;
+}
+h1{
+	text-transform	: uppercases;
+	font-size	: 200;
+	line-height	: 90%;
+	letter-spacing 	: 1em;
+	background-color: fuchsia /* roze */  
+}
+h2{
+	font-variant	: small-caps;
+	font-size	: 160%;
+	font-style	: italic;
+	font-weight	: normal;
+	text-align	: right;
+	color  		: teal;
+	background 	: #fdf url(afb_jaar/orbit.gif) no-repeat 50% 50%;
+}
+
+p{
+	line-height	: 150%;	/* anderhalve regelafstand */
+	letter-spacing	: 0,1em;
+	text-indent	: -1em;  
+}
+
+a{
+	font-weight 	: bold;
+	background 	: silvery;
+	
+}
