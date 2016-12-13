@@ -1,0 +1,96 @@
+.KopEen{
+            background-color: coral;
+            border-style:solid
+            border-radius: 1em;
+            color: azure;
+            
+        }
+.cssbutton {
+  padding: 15px 25px;
+  font-size: 12px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: #1491c1;
+  border: none;
+  border-radius: 6px;
+  box-shadow: 0 6px #999;
+}
+.inputtextfield {
+    width: 100%;
+    background-color: #FFF;
+    color: black;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.input[type=text], select{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+        .kader{
+            margin-left: 150px;
+            margin-right: 150px;
+            background-color: blue;
+            border-style: dashed;
+            border-radius: 1em;
+            box-shadow: black 0.2em 0.2em 0.2em;
+            color: azure;
+            
+        }
+        .kleur {
+            color: red;
+            background: red;
+            
+        }
+        .kleur:hover{
+            font-weight:bold;
+            color: white;
+        
+        
+        }
+        .containerQuiz{
+	margin-top: 0;
+	margin-right: auto;
+	margin-bottom: 0;
+	margin-left: auto;
+	width: 660px;
+	background-color: green;
+	text-align: center;
+	border-style:groove;
+	border-radius: 1em;
+	box-shadow: black 0.8em 0.8em 0.8em;
+	color: azure;
+	overflow:hidden;                    
+                }
+        .body{
+	background-image: url(image-Uitnodiging/psgStadium.jpg);
+            }
+    .size{
+	font-size: 25px;
+	width: 250px;
+	text-align:left;
+         }
+        .label{display: inline-block; }
+ .menu{}
+.menu ul li{
+	font-size:18px;
+	color: white;
+	list-style:none;
+	float:left;
+	padding-right: 5px;
+	padding-bottom: auto;
+	padding-left: 10px;
+	padding-top: 10px;}
+	.menu ul li a.active{
+	color: #FFF;
+}
+    .h2 { font-size:24px;}
