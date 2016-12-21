@@ -1,0 +1,8 @@
+.transitie {
+	transition-property: top, top right, right down, left down, left top, left down, right down, right top, left top;
+	transition-duration: 2s, 1.5s, 1.5s, 1.5s, 1.5s, 1.5s, 1.5s, 1.5s, 1.5s;
+	transition-delay: .5s, .3s, .3s, .3s, .3s, .3s, .3s, .3s, .3s;
+	transition-timing-function: ease; 
+	position: relative; left: 0px; top:0px;
+	width: 20%;
+}
